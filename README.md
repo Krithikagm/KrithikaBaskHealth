@@ -1,3 +1,8 @@
+## BASK HEALTH ASSESMENT
+
+This project is a real-time dashboard built using Next.js 14, TailwindCSS, and TypeScript. It dynamically fetches and displays data from a provided API every 5 seconds, ensuring up-to-date information is always presented. The dashboard includes customizable widgets like charts and tables, allowing users to personalize their layout and view data in a way that suits their needs. The styling is generated dynamically from a server-side source, creating a unique visual experience. The application is fully responsive, providing an optimal user experience on both desktop and mobile devices.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
